@@ -10,17 +10,17 @@ are all that I have. The original plan is to build a fire truck that is similar 
 in the cartoon series Paw Patrol for my daughter, but the plan was diverted and here it is:
 
 
-![_config.yml]({{ site.baseurl }}/images/meccano-fire-truck/1.jpg)
+![_config.yml]({{ site.baseurl }}/images/meccano-fire-truck2/1.jpg)
 
-![_config.yml]({{ site.baseurl }}/images/meccano-fire-truck/2.jpg)
+![_config.yml]({{ site.baseurl }}/images/meccano-fire-truck2/2.jpg)
 
-![_config.yml]({{ site.baseurl }}/images/meccano-fire-truck/3.jpg)
+![_config.yml]({{ site.baseurl }}/images/meccano-fire-truck2/3.jpg)
 
-![_config.yml]({{ site.baseurl }}/images/meccano-fire-truck/4.jpg)
+![_config.yml]({{ site.baseurl }}/images/meccano-fire-truck2/4.jpg)
 
-![_config.yml]({{ site.baseurl }}/images/meccano-fire-truck/5.jpg)
+![_config.yml]({{ site.baseurl }}/images/meccano-fire-truck2/5.jpg)
 
-![_config.yml]({{ site.baseurl }}/images/meccano-fire-truck/6.jpg)
+![_config.yml]({{ site.baseurl }}/images/meccano-fire-truck2/6.jpg)
 
 
 I developed two versions, the first version uses a Meccano magic clockwork motor to drive, the
@@ -44,7 +44,7 @@ I used the magic clockwork motor, because it is small enough to fit under the fi
 The problem is that the magic clockwork motor spins fast and gives too little torque to move the truck, so I have to
 gear down, I used a few pulleys with rubber bands to gear down.
 
-![_config.yml]({{ site.baseurl }}/images/meccano-fire-truck/7.jpg)
+![_config.yml]({{ site.baseurl }}/images/meccano-fire-truck2/7.jpg)
 
 Here is a video showing the gear down effect:
 
@@ -62,9 +62,9 @@ fits the space under the fire truck. The motor generates enough torque so there 
 the transmission is simplified. But of course, you will need a battery to drive the motor. I put the battery inside
 the truck of the truck.
 
-![_config.yml]({{ site.baseurl }}/images/meccano-fire-truck/8.jpg)
+![_config.yml]({{ site.baseurl }}/images/meccano-fire-truck2/8.jpg)
 
-![_config.yml]({{ site.baseurl }}/images/meccano-fire-truck/9.jpg)
+![_config.yml]({{ site.baseurl }}/images/meccano-fire-truck2/9.jpg)
 
 This video shows how the electric motor turns:
 
@@ -77,9 +77,9 @@ of truck space to mount another motor. Remember, standard Meccano motors are kin
 practice for small kids to manually turn the ladder with a wheel. I used a worm gear so the ladder can lock its
 position and won't move around. And there is a basket on top of the latter.
 
-![_config.yml]({{ site.baseurl }}/images/meccano-fire-truck/12.jpg)
+![_config.yml]({{ site.baseurl }}/images/meccano-fire-truck2/12.jpg)
 
-![_config.yml]({{ site.baseurl }}/images/meccano-fire-truck/10.jpg)
+![_config.yml]({{ site.baseurl }}/images/meccano-fire-truck2/10.jpg)
 
 Here is a video showing how to turn the ladder.
 
@@ -91,7 +91,7 @@ picture below). They can lock position too.
 ## The driving room
 I decided to add some details, such as a chair and a steering wheel in the driving room, just for decoration.
 
-![_config.yml]({{ site.baseurl }}/images/meccano-fire-truck/11.jpg)
+![_config.yml]({{ site.baseurl }}/images/meccano-fire-truck2/11.jpg)
 
 
 That's it, the fire truck, with either clcokwork or electric motor, and featuring a manually turn-able ladder.
