@@ -49,11 +49,11 @@ gear down, I used a few pulleys with rubber bands to gear down.
 Here is a video showing the gear down effect:
 
 
-<iframe width="700" height="420" src="https://www.youtube.com/embed/PTzgtIl1XvI?color=white&theme=light"></iframe>
+<iframe width="700" height="420" src="http://www.youtube.com/embed/PTzgtIl1XvI?color=white&theme=light&scheme=https"></iframe>
 
 And here is how the truck moves using the magic clockwork motor. I know, it is quite slow due to the gear down:
 
-<iframe width="700" height="420" src="https://www.youtube.com/embed/q4DZr1qTzWk?color=white&theme=light"></iframe>
+<iframe width="700" height="420" src="http://www.youtube.com/embed/q4DZr1qTzWk?color=white&theme=light&scheme=https"></iframe>
 
 ## The electric motor version
 
@@ -68,7 +68,7 @@ the truck of the truck.
 
 This video shows how the electric motor turns:
 
-<iframe width="700" height="420" src="https://www.youtube.com/embed/s-hpwPHL6mY?color=white&theme=light"></iframe>
+<iframe width="700" height="420" src="http://www.youtube.com/embed/s-hpwPHL6mY?color=white&theme=light&scheme=https"></iframe>
 
 
 ## The turn-able ladder
@@ -83,7 +83,7 @@ position and won't move around. And there is a basket on top of the latter.
 
 Here is a video showing how to turn the ladder.
 
-<iframe width="700" height="420" src="https://www.youtube.com/embed/pHx28vtOcYM?color=white&theme=light"></iframe>
+<iframe width="700" height="420" src="http://www.youtube.com/embed/pHx28vtOcYM?color=white&theme=light&scheme=https"></iframe>
 
 You can also raise the ladder and bend the second half of the ladder because they are connected with lock nut (see the
 picture below). They can lock position too.
