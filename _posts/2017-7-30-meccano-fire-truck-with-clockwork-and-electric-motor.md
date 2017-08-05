@@ -5,12 +5,14 @@ title: Meccano fire truck with clockwork and electric motor
 
 ## The fire truck
 
+![_config.yml]({{ site.baseurl }}/images/meccano-fire-truck2/1.jpg)
+
 This is a fire truck built with Meccano. I used quite some rusty plates to give it an old look, actually, rusty plates
 are all that I have. The original plan is to build a fire truck that is similar to the vehicle that Marshall drives
 in the cartoon series Paw Patrol for my daughter, but the plan was diverted and here it is:
 
 
-![_config.yml]({{ site.baseurl }}/images/meccano-fire-truck2/1.jpg)
+
 
 ![_config.yml]({{ site.baseurl }}/images/meccano-fire-truck2/2.jpg)
 

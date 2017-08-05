@@ -2,13 +2,13 @@
 layout: post
 title: Meccano servo steering
 ---
+![_config.yml]({{ site.baseurl }}/images/meccano-servo-steering/1.jpg)
 
 ## Meccano driving system
 
 This article explains how to use a 180 degree rotation servo to make steering mechanism in Meccano.
 The existing Meccano driving system uses a DC motor to drive a vehicle; the vehicle only drives forward or backward and
 it does not turn left or right. For example, in the following figure, the left part above the chassis is the DC motor.
-![_config.yml]({{ site.baseurl }}/images/meccano-servo-steering/1.jpg)
 
 ## Adding steering
 
