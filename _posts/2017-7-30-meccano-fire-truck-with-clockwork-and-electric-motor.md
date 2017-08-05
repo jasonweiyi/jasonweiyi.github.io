@@ -32,8 +32,6 @@ worm gear.
 I love [Meccano clockwork motors](https://www.google.co.uk/search?q=Meccano+clockwork+motors&source=lnms&tbm=isch&sa=X), and want to build things like the vehicles in the cartoon series Holly and Ben's little
 kindom.
 
-
-
 <img src="https://images-na.ssl-images-amazon.com/images/I/81Pb1J1yr2L._SL1500_.jpg" alt="hi" class="inline"/>
 
 There are several kinds of vintage Meccano clockwork motors from the 1920s to 1950s. You can find them easily in Ebay.
@@ -49,7 +47,8 @@ gear down, I used a few pulleys with rubber bands to gear down.
 Here is a video showing the gear down effect:
 
 
-<iframe width="700" height="420" src="http://www.youtube.com/embed/PTzgtIl1XvI?color=white&theme=light&scheme=https"></iframe>
+{% youtube PTzgtIl1XvI %}
+
 
 And here is how the truck moves using the magic clockwork motor. I know, it is quite slow due to the gear down:
 
