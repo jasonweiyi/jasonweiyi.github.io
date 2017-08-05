@@ -44,13 +44,12 @@ gear down, I used a few pulleys with rubber bands to gear down.
 
 ![_config.yml]({{ site.baseurl }}/images/meccano-fire-truck2/7.jpg)
 
-Here is a video showing the gear down effect:
+Here is a video showing the gear down effect (if you don't see the video, [link here](https://www.youtube.com/watch?v=PTzgtIl1XvI)):
+
+<iframe width="700" height="420" src="http://www.youtube.com/embed/PTzgtIl1XvI?color=white&theme=light&scheme=https"></iframe>
 
 
-{% youtube PTzgtIl1XvI %}
-
-
-And here is how the truck moves using the magic clockwork motor. I know, it is quite slow due to the gear down:
+And here is how the truck moves using the magic clockwork motor. I know, it is quite slow due to the gear down(if you don't see the video, [link here](https://www.youtube.com/watch?v=q4DZr1qTzWk)):
 
 <iframe width="700" height="420" src="http://www.youtube.com/embed/q4DZr1qTzWk?color=white&theme=light&scheme=https"></iframe>
 
@@ -65,7 +64,7 @@ the truck of the truck.
 
 ![_config.yml]({{ site.baseurl }}/images/meccano-fire-truck2/9.jpg)
 
-This video shows how the electric motor turns:
+This video shows how the electric motor turns(if you don't see the video, [link here](https://www.youtube.com/watch?v=s-hpwPHL6mY)):
 
 <iframe width="700" height="420" src="http://www.youtube.com/embed/s-hpwPHL6mY?color=white&theme=light&scheme=https"></iframe>
 
@@ -80,7 +79,7 @@ position and won't move around. And there is a basket on top of the latter.
 
 ![_config.yml]({{ site.baseurl }}/images/meccano-fire-truck2/10.jpg)
 
-Here is a video showing how to turn the ladder.
+Here is a video showing how to turn the ladder (if you don't see the video, [link here](https://www.youtube.com/watch?v=pHx28vtOcYM)):
 
 <iframe width="700" height="420" src="http://www.youtube.com/embed/pHx28vtOcYM?color=white&theme=light&scheme=https"></iframe>
 
